@@ -1,0 +1,19 @@
+I0000 00:00:1794271759.947194  935724 gpu_device.cc:2043] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 1691 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 3050 Laptop GPU, pci bus id: 0000:01:00.0, compute capability: 8.6
+I0000 00:00:1794271761.050998  935724 cuda_dnn.cc:461] Loaded cuDNN version 92801
+foto  real         caja anotada sistema      conf  estado
+016   HXP-740-A    HXP-740-A    HXP-740-A    1.00  Jalisco
+006   TMC-86-74    TMC-86-74    TMC-86-74    1.00  Oaxaca
+012   NUL-90-78    NUL-90-78    NUL-90-78    0.94  Estado de México
+024   PY-5244-A    PY-5244-A    PY-5244-A    1.00  Nuevo León
+026   NXK-42-06    NXK-42-06    NXK-42-06    1.00  Estado de México
+035   NJJ-64-53    NJJ-64-53    NJJ-64-53    1.00  Estado de México
+011   FPF-82-04    FPF-82-04    FPF-82-04    1.00  Coahuila
+083   GDS-074-D    GDS-074-D    GDS-074-D    1.00  Durango
+086   GAH-506-D    GAH-506-D    GAH-506-D    1.00  Durango
+
+Detector: 9/10 placas encontradas, 1 detecciones falsas
+OCR con la caja anotada: 9/9 matrículas exactas
+Sistema completo: 9/9 matrículas exactas y aceptadas
+Estado correcto en el sistema completo: 9/9
+QR legibles en placas aceptadas: 9
+Caracteres errados (sistema completo): 0/63
